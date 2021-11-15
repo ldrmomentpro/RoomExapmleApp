@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Room Example</string>
+    <string name="sell">Продать</string>
+    <string name="quantity">Количество на складе:</string>
+    <string name="quantity_req">Количество на складе <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Название товара <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Цена товара <font color='#FF0000'>*</font></string>
+    <string name="save_action">Сохранить</string>
+    <string name="item_detail_fragment_title">О товаре</string>
+    <string name="add_fragment_title">Добавить товар</string>
+    <string name="edit_fragment_title">Редактировать товар</string>
+    <string name="price">Цена</string>
+    <string name="quantity_in_stock">Количество\nна складе</string>
+    <string name="item">Товар</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_question">Вы уверены что хотите удалить товар?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="currency_symbol">$</string>
+    <string name="edit_item">Редактировать товар</string>
+    <string name="add_new_item">Добавить новый товар</string>
+</resources>
